@@ -13,7 +13,7 @@ This session is designed to bring together the concepts of Azure cost optimizati
 
 ## Agenda
 #### [Cloud Efficiency Overview](overview.md)
-#### [Emissions Tooling](tooling.md)
+#### [Reporting Tools](tooling.md)
 #### [Calculate Application Efficiency](calculate.md)
 #### [Optimize Workloads](optimize.md)
 #### [Control Costs](control.md)
