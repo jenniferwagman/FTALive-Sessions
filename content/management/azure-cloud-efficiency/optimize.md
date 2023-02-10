@@ -57,3 +57,7 @@ Consider your retention requirements for your storage resources. Is there opport
 You may be overconsuming diagnostic and performance logs. Azure Monitor [Data Collection Rules](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rule-overview) offer a solution to collect only the logs you need. 
 
 To reduce your costs associated with blob storage, see how [Lifecycle Management](https://learn.microsoft.com/en-us/azure/storage/blobs/lifecycle-management-policy-configure?tabs=azure-portal) rules can ensure your data is stored efficiently. 
+
+### Modernize
+If you've optimized in all the previously mentioned areas and are looking for increased cost and carbon savings, review your solution and consider if modernizing will fit your needs. Azure PaaS services offer built-in scaling and high availability to support dynamic workloads. 
+![Choose the right service](https://github.com/jenniferwagman/FTALive-Sessions/blob/main/content/management/azure-cloud-efficiency/Optimize01.jpg)
