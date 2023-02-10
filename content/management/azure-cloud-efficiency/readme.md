@@ -17,6 +17,7 @@ This session is designed to bring together the concepts of Azure cost optimizati
 #### [Calculate Application Efficiency](calculate.md)
 #### [Optimize Workloads](optimize.md)
 #### [Control Costs](control.md)
+#### [App & DB Tuning](tuning.md)
 
 
 
